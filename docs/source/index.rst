@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Jun88 - jun880.net - Nền Tảng Sòng Bạc Trực Tuyến Hàng Đầu Châu Á Với Dịch Vụ Chuyên Nghiệp Và Trò Chơi Đa Dạng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Jun88 <https://jun880.net/>`_ là một trong những nền tảng sòng bạc trực tuyến hàng đầu tại châu Á, đặc biệt phổ biến tại Việt Nam. Được thành lập với mục tiêu mang đến trải nghiệm cá cược trực tuyến chuyên nghiệp và uy tín, Jun88 cung cấp một loạt các dịch vụ từ cá cược thể thao, sòng bạc trực tuyến, trò chơi slot đến xổ số và lô đề. Jun88 nổi bật với tính an toàn, bảo mật cao, hỗ trợ khách hàng chuyên nghiệp 24/7, cùng nhiều chương trình khuyến mãi hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 101 Đ. Thống Nhất, Xã Bình Thắng, Dĩ An, Bình Dương, Việt Nam. 
 
-   This project is under active development.
+Phone: 0986530114. 
 
-Contents
---------
+Email: jun880net@gmail.com. 
 
-.. toctree::
+Website: https://jun880.net/
 
-   usage
-   api
+#jun88 #nhacaijun88 #trangchujun88 #dangkyjun88 #linkjun88
